@@ -1,7 +1,4 @@
 # Hello, I'm Matthew Sobol 👋
-
-![Matthew Sobol's GitHub stats](https://github-readme-stats.vercel.app/api?username=maswertyDT&show_icons=true&theme=radical)  
-
 ## 👨‍💻 About Me
 
 I'm a Security Engineer specialized in cybersecurity. Experienced with Python, Ruby, Kubernetes, hosting CTFs, and working extensively in GRC. 
