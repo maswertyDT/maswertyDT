@@ -5,9 +5,8 @@ I'm a Security Engineer specialized in cybersecurity. Experienced with Python, R
 
 - 🔭 Currently working at Invoca
 - 🌱 Learning more about `Advanced Cybersecurity Techniques`, `Cloud Security`, and `Threat Hunting`
-- 👯 Open for collaborations in cybersecurity
+- 👯 Open for collaborations in cybersecurity, coding projects, website design and development
 - 📫 Reach me: [LinkedIn](https://linkedin.com/in/matthew-sobol) | [Your Twitter](https://twitter.com/your-twitter)
-
 
 ## 🛠 Skills
 
@@ -17,18 +16,17 @@ I'm a Security Engineer specialized in cybersecurity. Experienced with Python, R
 - CTF Hosting
 - Security Audits
 - CI/CD
+- Web Development
 
 ## 📖 Certifications
 
 - Certified Information Systems Security Professional (CISSP)
 - Certified Ethical Hacker (CEH)
 
-
 ## 🎯 Upcoming Projects
 
 - A Cybersecurity Toolkit written in Python
 - Security Pull Request Review As A Service (AI to address app security)
-
 
 ## 🌐 Web Development Projects
 
