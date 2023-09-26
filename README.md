@@ -1,7 +1,6 @@
 # Hello, I'm Matthew Sobol 👋
 
-![Profile views](https://gpvc.arturio.dev/maswertyDT)  
-![Matthew Sobol's GitHub stats](https://github-readme-stats.vercel.app/api?username=[maswertyDT]&show_icons=true&theme=radical)  
+![Matthew Sobol's GitHub stats](https://github-readme-stats.vercel.app/api?username=maswertyDT&show_icons=true&theme=radical)  
 
 ## 👨‍💻 About Me
 
@@ -11,6 +10,7 @@ I'm a Security Engineer specialized in cybersecurity. Experienced with Python, R
 - 🌱 Learning more about `Advanced Cybersecurity Techniques`, `Cloud Security`, and `Threat Hunting`
 - 👯 Open for collaborations in cybersecurity
 - 📫 Reach me: [LinkedIn](https://linkedin.com/in/matthew-sobol) | [Your Twitter](https://twitter.com/your-twitter)
+
 
 ## 🛠 Skills
 
@@ -25,15 +25,22 @@ I'm a Security Engineer specialized in cybersecurity. Experienced with Python, R
 
 - Certified Information Systems Security Professional (CISSP)
 - Certified Ethical Hacker (CEH)
-- 
+
 
 ## 🎯 Upcoming Projects
 
 - A Cybersecurity Toolkit written in Python
-- Dockerized Vulnerability Scanner
+- Security Pull Request Review As A Service (AI to address app security)
+
+
+## 🌐 Web Development Projects
+
+I have extensive experience in not only cybersecurity but also in web development. I've developed and currently manage the websites [Blue Beam Music](https://bluebeammusic.com) and [Scott Sobol Home Inspections](https://scottsobolhomeinspections.com), where I handle everything from front-end design to back-end server management.
+
+- **Blue Beam Music**: A platform for a Chicago-based alternative funk rock band. Involved in layout design, content management, SEO, and ongoing maintenance.
+    
+- **Scott Sobol Home Inspections**: A professional website for a home inspection service. Responsible for user interface design, contact forms, and search engine optimization.
 
 ## 📫 How to reach me
 
 You can reach me through [LinkedIn](https://linkedin.com/in/matthew-sobol)
-
----
