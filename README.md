@@ -30,7 +30,7 @@ I'm a Security Engineer specialized in cybersecurity. Experienced with Python, R
 
 ## 🌐 Web Development Projects
 
-I have extensive experience in not only cybersecurity but also in web development. I've developed and currently manage the websites [Blue Beam Music](https://bluebeammusic.com) and [Scott Sobol Home Inspections](https://scottsobolhomeinspections.com), where I handle everything from front-end design to back-end server management.
+I have extensive experience in not only cybersecurity but also in web development. I've developed and currently manage the websites [Advanced Selections LLC](https://advancedselections.com), [Blue Beam Music](https://bluebeammusic.com), [Scott Sobol Home Inspections](https://scottsobolhomeinspections.com), where I handle everything from front-end design to back-end server management.
 
 - **Blue Beam Music**: A platform for a Chicago-based alternative funk rock band. Involved in layout design, content management, SEO, and ongoing maintenance.
     
