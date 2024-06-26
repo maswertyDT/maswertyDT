@@ -21,6 +21,7 @@ I'm a Security Engineer specialized in cybersecurity. Experienced with Python, R
 ## 📖 Certifications
 
 - Certified Information Systems Security Professional (CISSP)
+- Certified Cloud Security Professional (CCSP)
 - Certified Ethical Hacker (CEH)
 
 ## 🎯 Upcoming Projects
